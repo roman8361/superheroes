@@ -32,4 +32,5 @@ enum MainPageState {
   loadingError,
   searchResults,
   favorites
+
 }
